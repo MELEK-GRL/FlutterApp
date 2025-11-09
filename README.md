@@ -17,7 +17,7 @@ Amacım farklı veri kaynaklarından veri çekmeyi, bu verileri modele dönüşt
   Kullanıcı baz para birimine göre farklı kurları anlık olarak görebiliyor.
 
 - Tüm veriler modele dönüştürülerek UI üzerinde gösteriliyor.  
-  State yönetimi basit ama temiz bir yapıda tutuldu.
+  State yönetimi temiz bir yapıda tutuldu.
 
 - Kod yapısı genel olarak sade, modüler ve okunabilir olacak şekilde düzenlendi.
 
@@ -42,5 +42,6 @@ Projeyi kendi bilgisayarında çalıştırmak istersen:
 cd FlutterApp /
 flutter pub get /
 flutter run
+
 
 
