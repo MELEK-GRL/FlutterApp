@@ -39,7 +39,7 @@ Amacım farklı veri kaynaklarından veri çekmeyi, bu verileri modele dönüşt
 
 Projeyi kendi bilgisayarında çalıştırmak istersen:
 
-git clone https://github.com/MELEK-GRL/FlutterApp.git
 cd FlutterApp
 flutter pub get
 flutter run
+
