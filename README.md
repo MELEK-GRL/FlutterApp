@@ -39,7 +39,8 @@ Amacım farklı veri kaynaklarından veri çekmeyi, bu verileri modele dönüşt
 
 Projeyi kendi bilgisayarında çalıştırmak istersen:
 
-cd FlutterApp
-flutter pub get
+cd FlutterApp /
+flutter pub get /
 flutter run
+
 
